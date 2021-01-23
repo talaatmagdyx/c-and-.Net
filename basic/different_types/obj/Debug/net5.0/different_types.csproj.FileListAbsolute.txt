@@ -1,0 +1,16 @@
+E:\book c#\basic\different_types\bin\Debug\net5.0\different_types.exe
+E:\book c#\basic\different_types\bin\Debug\net5.0\different_types.deps.json
+E:\book c#\basic\different_types\bin\Debug\net5.0\different_types.runtimeconfig.json
+E:\book c#\basic\different_types\bin\Debug\net5.0\different_types.runtimeconfig.dev.json
+E:\book c#\basic\different_types\bin\Debug\net5.0\different_types.dll
+E:\book c#\basic\different_types\bin\Debug\net5.0\ref\different_types.dll
+E:\book c#\basic\different_types\bin\Debug\net5.0\different_types.pdb
+E:\book c#\basic\different_types\obj\Debug\net5.0\different_types.csprojAssemblyReference.cache
+E:\book c#\basic\different_types\obj\Debug\net5.0\different_types.GeneratedMSBuildEditorConfig.editorconfig
+E:\book c#\basic\different_types\obj\Debug\net5.0\different_types.AssemblyInfoInputs.cache
+E:\book c#\basic\different_types\obj\Debug\net5.0\different_types.AssemblyInfo.cs
+E:\book c#\basic\different_types\obj\Debug\net5.0\different_types.csproj.CoreCompileInputs.cache
+E:\book c#\basic\different_types\obj\Debug\net5.0\different_types.dll
+E:\book c#\basic\different_types\obj\Debug\net5.0\ref\different_types.dll
+E:\book c#\basic\different_types\obj\Debug\net5.0\different_types.pdb
+E:\book c#\basic\different_types\obj\Debug\net5.0\different_types.genruntimeconfig.cache

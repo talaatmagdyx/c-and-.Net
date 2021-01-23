@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JWYBpYX1FThr6f2xHC5p1xU01nHPh9i/ew5yehwhvaVA7tND+r4xXOo5GfCgekU7owJtyYpn9TIOclW96GYLyw==",
+  "dgSpecHash": "3cWjt44cmRCX0GP4CWRbqayFYPMU8AUvCj3XZwS0xhrPiC3lTO35eNvL7Kw2BW4ydRb9vCm33Pw2CnrupoN31g==",
   "success": true,
-  "projectFilePath": "E:\\book c#\\console\\book c#.csproj",
+  "projectFilePath": "E:\\book c#\\Hello_world\\book c#.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

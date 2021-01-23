@@ -1,0 +1,16 @@
+E:\book c#\basic\Numbers\obj\Debug\net5.0\Integer.csprojAssemblyReference.cache
+E:\book c#\basic\Numbers\obj\Debug\net5.0\Integer.GeneratedMSBuildEditorConfig.editorconfig
+E:\book c#\basic\Numbers\obj\Debug\net5.0\Integer.AssemblyInfoInputs.cache
+E:\book c#\basic\Numbers\obj\Debug\net5.0\Integer.AssemblyInfo.cs
+E:\book c#\basic\Numbers\obj\Debug\net5.0\Integer.csproj.CoreCompileInputs.cache
+E:\book c#\basic\Numbers\bin\Debug\net5.0\Integer.exe
+E:\book c#\basic\Numbers\bin\Debug\net5.0\Integer.deps.json
+E:\book c#\basic\Numbers\bin\Debug\net5.0\Integer.runtimeconfig.json
+E:\book c#\basic\Numbers\bin\Debug\net5.0\Integer.runtimeconfig.dev.json
+E:\book c#\basic\Numbers\bin\Debug\net5.0\Integer.dll
+E:\book c#\basic\Numbers\bin\Debug\net5.0\ref\Integer.dll
+E:\book c#\basic\Numbers\bin\Debug\net5.0\Integer.pdb
+E:\book c#\basic\Numbers\obj\Debug\net5.0\Integer.dll
+E:\book c#\basic\Numbers\obj\Debug\net5.0\ref\Integer.dll
+E:\book c#\basic\Numbers\obj\Debug\net5.0\Integer.pdb
+E:\book c#\basic\Numbers\obj\Debug\net5.0\Integer.genruntimeconfig.cache

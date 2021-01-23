@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\book c#\\console\\book c#.csproj": {}
+    "E:\\book c#\\Hello_world\\book c#.csproj": {}
   },
   "projects": {
-    "E:\\book c#\\console\\book c#.csproj": {
+    "E:\\book c#\\Hello_world\\book c#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\book c#\\console\\book c#.csproj",
+        "projectUniqueName": "E:\\book c#\\Hello_world\\book c#.csproj",
         "projectName": "book c#",
-        "projectPath": "E:\\book c#\\console\\book c#.csproj",
+        "projectPath": "E:\\book c#\\Hello_world\\book c#.csproj",
         "packagesPath": "C:\\Users\\TALAATMAGDY\\.nuget\\packages\\",
-        "outputPath": "E:\\book c#\\console\\obj\\",
+        "outputPath": "E:\\book c#\\Hello_world\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\TALAATMAGDY\\AppData\\Roaming\\NuGet\\NuGet.Config",

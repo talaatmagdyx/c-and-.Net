@@ -1,0 +1,16 @@
+E:\book c#\basic\text_input_from_user\bin\Debug\net5.0\text_input_from_user.exe
+E:\book c#\basic\text_input_from_user\bin\Debug\net5.0\text_input_from_user.deps.json
+E:\book c#\basic\text_input_from_user\bin\Debug\net5.0\text_input_from_user.runtimeconfig.json
+E:\book c#\basic\text_input_from_user\bin\Debug\net5.0\text_input_from_user.runtimeconfig.dev.json
+E:\book c#\basic\text_input_from_user\bin\Debug\net5.0\text_input_from_user.dll
+E:\book c#\basic\text_input_from_user\bin\Debug\net5.0\ref\text_input_from_user.dll
+E:\book c#\basic\text_input_from_user\bin\Debug\net5.0\text_input_from_user.pdb
+E:\book c#\basic\text_input_from_user\obj\Debug\net5.0\text_input_from_user.csprojAssemblyReference.cache
+E:\book c#\basic\text_input_from_user\obj\Debug\net5.0\text_input_from_user.GeneratedMSBuildEditorConfig.editorconfig
+E:\book c#\basic\text_input_from_user\obj\Debug\net5.0\text_input_from_user.AssemblyInfoInputs.cache
+E:\book c#\basic\text_input_from_user\obj\Debug\net5.0\text_input_from_user.AssemblyInfo.cs
+E:\book c#\basic\text_input_from_user\obj\Debug\net5.0\text_input_from_user.csproj.CoreCompileInputs.cache
+E:\book c#\basic\text_input_from_user\obj\Debug\net5.0\text_input_from_user.dll
+E:\book c#\basic\text_input_from_user\obj\Debug\net5.0\ref\text_input_from_user.dll
+E:\book c#\basic\text_input_from_user\obj\Debug\net5.0\text_input_from_user.pdb
+E:\book c#\basic\text_input_from_user\obj\Debug\net5.0\text_input_from_user.genruntimeconfig.cache
