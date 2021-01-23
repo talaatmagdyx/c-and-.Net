@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Converting_numbers_from_cardinal_to_ordinal/1.0.0": {
+        "runtime": {
+          "Converting_numbers_from_cardinal_to_ordinal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Converting_numbers_from_cardinal_to_ordinal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

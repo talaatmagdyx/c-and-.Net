@@ -1,0 +1,16 @@
+E:\book c#\Converting_numbers_from_cardinal_to_ordinal\obj\Debug\net5.0\Converting_numbers_from_cardinal_to_ordinal.csprojAssemblyReference.cache
+E:\book c#\Converting_numbers_from_cardinal_to_ordinal\obj\Debug\net5.0\Converting_numbers_from_cardinal_to_ordinal.GeneratedMSBuildEditorConfig.editorconfig
+E:\book c#\Converting_numbers_from_cardinal_to_ordinal\obj\Debug\net5.0\Converting_numbers_from_cardinal_to_ordinal.AssemblyInfoInputs.cache
+E:\book c#\Converting_numbers_from_cardinal_to_ordinal\obj\Debug\net5.0\Converting_numbers_from_cardinal_to_ordinal.AssemblyInfo.cs
+E:\book c#\Converting_numbers_from_cardinal_to_ordinal\obj\Debug\net5.0\Converting_numbers_from_cardinal_to_ordinal.csproj.CoreCompileInputs.cache
+E:\book c#\Converting_numbers_from_cardinal_to_ordinal\bin\Debug\net5.0\Converting_numbers_from_cardinal_to_ordinal.exe
+E:\book c#\Converting_numbers_from_cardinal_to_ordinal\bin\Debug\net5.0\Converting_numbers_from_cardinal_to_ordinal.deps.json
+E:\book c#\Converting_numbers_from_cardinal_to_ordinal\bin\Debug\net5.0\Converting_numbers_from_cardinal_to_ordinal.runtimeconfig.json
+E:\book c#\Converting_numbers_from_cardinal_to_ordinal\bin\Debug\net5.0\Converting_numbers_from_cardinal_to_ordinal.runtimeconfig.dev.json
+E:\book c#\Converting_numbers_from_cardinal_to_ordinal\bin\Debug\net5.0\Converting_numbers_from_cardinal_to_ordinal.dll
+E:\book c#\Converting_numbers_from_cardinal_to_ordinal\bin\Debug\net5.0\ref\Converting_numbers_from_cardinal_to_ordinal.dll
+E:\book c#\Converting_numbers_from_cardinal_to_ordinal\bin\Debug\net5.0\Converting_numbers_from_cardinal_to_ordinal.pdb
+E:\book c#\Converting_numbers_from_cardinal_to_ordinal\obj\Debug\net5.0\Converting_numbers_from_cardinal_to_ordinal.dll
+E:\book c#\Converting_numbers_from_cardinal_to_ordinal\obj\Debug\net5.0\ref\Converting_numbers_from_cardinal_to_ordinal.dll
+E:\book c#\Converting_numbers_from_cardinal_to_ordinal\obj\Debug\net5.0\Converting_numbers_from_cardinal_to_ordinal.pdb
+E:\book c#\Converting_numbers_from_cardinal_to_ordinal\obj\Debug\net5.0\Converting_numbers_from_cardinal_to_ordinal.genruntimeconfig.cache

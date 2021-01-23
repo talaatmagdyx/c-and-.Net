@@ -1,0 +1,16 @@
+E:\book c#\Debugging\basic_debugging\obj\Debug\net5.0\basic_debugging.csprojAssemblyReference.cache
+E:\book c#\Debugging\basic_debugging\obj\Debug\net5.0\basic_debugging.GeneratedMSBuildEditorConfig.editorconfig
+E:\book c#\Debugging\basic_debugging\obj\Debug\net5.0\basic_debugging.AssemblyInfoInputs.cache
+E:\book c#\Debugging\basic_debugging\obj\Debug\net5.0\basic_debugging.AssemblyInfo.cs
+E:\book c#\Debugging\basic_debugging\obj\Debug\net5.0\basic_debugging.csproj.CoreCompileInputs.cache
+E:\book c#\Debugging\basic_debugging\bin\Debug\net5.0\basic_debugging.exe
+E:\book c#\Debugging\basic_debugging\bin\Debug\net5.0\basic_debugging.deps.json
+E:\book c#\Debugging\basic_debugging\bin\Debug\net5.0\basic_debugging.runtimeconfig.json
+E:\book c#\Debugging\basic_debugging\bin\Debug\net5.0\basic_debugging.runtimeconfig.dev.json
+E:\book c#\Debugging\basic_debugging\bin\Debug\net5.0\basic_debugging.dll
+E:\book c#\Debugging\basic_debugging\bin\Debug\net5.0\ref\basic_debugging.dll
+E:\book c#\Debugging\basic_debugging\bin\Debug\net5.0\basic_debugging.pdb
+E:\book c#\Debugging\basic_debugging\obj\Debug\net5.0\basic_debugging.dll
+E:\book c#\Debugging\basic_debugging\obj\Debug\net5.0\ref\basic_debugging.dll
+E:\book c#\Debugging\basic_debugging\obj\Debug\net5.0\basic_debugging.pdb
+E:\book c#\Debugging\basic_debugging\obj\Debug\net5.0\basic_debugging.genruntimeconfig.cache

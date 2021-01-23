@@ -1,0 +1,16 @@
+E:\book c#\Factorial_Function\obj\Debug\net5.0\Factorial_Function.csprojAssemblyReference.cache
+E:\book c#\Factorial_Function\obj\Debug\net5.0\Factorial_Function.GeneratedMSBuildEditorConfig.editorconfig
+E:\book c#\Factorial_Function\obj\Debug\net5.0\Factorial_Function.AssemblyInfoInputs.cache
+E:\book c#\Factorial_Function\obj\Debug\net5.0\Factorial_Function.AssemblyInfo.cs
+E:\book c#\Factorial_Function\obj\Debug\net5.0\Factorial_Function.csproj.CoreCompileInputs.cache
+E:\book c#\Factorial_Function\bin\Debug\net5.0\Factorial_Function.exe
+E:\book c#\Factorial_Function\bin\Debug\net5.0\Factorial_Function.deps.json
+E:\book c#\Factorial_Function\bin\Debug\net5.0\Factorial_Function.runtimeconfig.json
+E:\book c#\Factorial_Function\bin\Debug\net5.0\Factorial_Function.runtimeconfig.dev.json
+E:\book c#\Factorial_Function\bin\Debug\net5.0\Factorial_Function.dll
+E:\book c#\Factorial_Function\bin\Debug\net5.0\ref\Factorial_Function.dll
+E:\book c#\Factorial_Function\bin\Debug\net5.0\Factorial_Function.pdb
+E:\book c#\Factorial_Function\obj\Debug\net5.0\Factorial_Function.dll
+E:\book c#\Factorial_Function\obj\Debug\net5.0\ref\Factorial_Function.dll
+E:\book c#\Factorial_Function\obj\Debug\net5.0\Factorial_Function.pdb
+E:\book c#\Factorial_Function\obj\Debug\net5.0\Factorial_Function.genruntimeconfig.cache
