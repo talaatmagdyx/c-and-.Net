@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LcRKt0ZjL4XEev1xjUYcthkOuXNEZQfAbAM5NMxdDG1+SOyy9MKrLLowiVyNQKHceUQAKAkd+jAgzplnZnGp0g==",
+  "success": true,
+  "projectFilePath": "/media/talaat/8A4C2A1F4C2A0693/c#work/book c#/oop/PacktLibrary/PacktLibrary.csproj",
+  "expectedPackageFiles": [
+    "/home/talaat/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/talaat/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

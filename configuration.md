@@ -28,3 +28,11 @@ to the project file, as shown in the following markup:
     <Nullable>enable</Nullable>
 </PropertyGroup
 ```
+
+- Add Class form project to and project
+
+```c#
+<ItemGroup>
+    <ProjectReference Include="../PacktLibrary/PacktLibrary.csproj" />
+</ItemGroup>
+```

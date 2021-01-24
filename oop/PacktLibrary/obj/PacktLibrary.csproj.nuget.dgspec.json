@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "/media/talaat/8A4C2A1F4C2A0693/c#work/book c#/oop/PacktLibrary/PacktLibrary.csproj": {}
+  },
+  "projects": {
+    "/media/talaat/8A4C2A1F4C2A0693/c#work/book c#/oop/PacktLibrary/PacktLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/media/talaat/8A4C2A1F4C2A0693/c#work/book c#/oop/PacktLibrary/PacktLibrary.csproj",
+        "projectName": "PacktLibrary",
+        "projectPath": "/media/talaat/8A4C2A1F4C2A0693/c#work/book c#/oop/PacktLibrary/PacktLibrary.csproj",
+        "packagesPath": "/home/talaat/.nuget/packages/",
+        "outputPath": "/media/talaat/8A4C2A1F4C2A0693/c#work/book c#/oop/PacktLibrary/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/talaat/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
