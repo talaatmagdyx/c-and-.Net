@@ -1,0 +1,88 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "PacktLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/PacktLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PacktLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PacktLibrary/1.0.0": {
+      "type": "project",
+      "path": "../PacktLibrary/PacktLibrary.csproj",
+      "msbuildProject": "../PacktLibrary/PacktLibrary.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "PacktLibrary >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/home/talaat/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/media/talaat/8A4C2A1F4C2A0693/c#work/book c#/oop/PeopleApp/PeopleApp.csproj",
+      "projectName": "PeopleApp",
+      "projectPath": "/media/talaat/8A4C2A1F4C2A0693/c#work/book c#/oop/PeopleApp/PeopleApp.csproj",
+      "packagesPath": "/home/talaat/.nuget/packages/",
+      "outputPath": "/media/talaat/8A4C2A1F4C2A0693/c#work/book c#/oop/PeopleApp/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/talaat/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "/media/talaat/8A4C2A1F4C2A0693/c#work/book c#/oop/PacktLibrary/PacktLibrary.csproj": {
+              "projectPath": "/media/talaat/8A4C2A1F4C2A0693/c#work/book c#/oop/PacktLibrary/PacktLibrary.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.102/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
